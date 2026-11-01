@@ -89,7 +89,7 @@ fun MainScreen(modifier: Modifier = Modifier) {
         )
 
         Text(
-            text = "Background service runs every 15 minutes to notify you of new Hacker News posts.",
+            text = "Background service runs every 30 minutes to notify you of new Hacker News posts.",
             style = MaterialTheme.typography.bodyMedium
         )
 
